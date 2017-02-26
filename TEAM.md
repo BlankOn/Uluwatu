@@ -8,6 +8,8 @@
 
 #Pemaket
 
+- [Febrian Rendak](https://github.com/febrianrendak)
+
 #Riset
 
 - Herpiko Dwi Aguno (Koordinator)
