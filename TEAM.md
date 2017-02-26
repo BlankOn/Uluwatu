@@ -2,6 +2,8 @@
 
 #Manajer Rilis
 
+- Estu Fardani | @tuanpembual
+
 #Infrastruktur
 
 #Pemaket
