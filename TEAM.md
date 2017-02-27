@@ -21,5 +21,12 @@
 #Jaminan Kualitas
 
 #Kesenian
+- [Aris Winardi (Koordinator)](http://github.com/winardiaris/)
+- [Muhammad Irfan](https://github.com/irfanpule)
+- [Ahmad Romadhon Hidayatullah](https://github.com/raniaamina)
+- [Bayu Aji]()
+- [Ary Aldatama]()
+- [Vikko Okviandho]()
+
 
 #Humas
