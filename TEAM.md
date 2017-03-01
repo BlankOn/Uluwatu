@@ -25,6 +25,7 @@
 
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
 - Faiz
+- [Sucipto](https://github.com/showcheap)
 
 ##Dokumentasi
 - [Faiq Aminuddin (Koordinator)](https://github.com/FaiqAminuddin)
