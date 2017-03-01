@@ -27,6 +27,22 @@
 - Faiz
 
 ##Dokumentasi
+- [Faiq Aminuddin (Koordinator)](https://github.com/FaiqAminuddin)
+- Umul Sidiqoh
+- Tris Faizal
+- Adnan Maulanan
+- Laili Alfi Arfiyatin
+- Endra Yustina Arianto
+- Kuriyanto Adi Saputro
+- Anchuxo
+- Sukmo Afro Ardi Saputro
+- Findi Hardianty
+- Abdul Mukti Nurrohman
+- Syahrudin
+- Iking Elharts
+- Musthofa fahmi
+- Andika fauzi
+- Barep Setyadi
 
 ##Jaminan Kualitas
 
@@ -39,6 +55,5 @@
 - Bayu Aji
 - Ary Aldatama
 - [Vikko Okviandho](https://github.com/belthsazarliem)
-
 
 ##Humas
