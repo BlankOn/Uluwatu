@@ -25,6 +25,7 @@
 
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
 - Faiz
+- [Aan Wahyu](https://github.com/aancw)
 
 ##Dokumentasi
 - [Faiq Aminuddin (Koordinator)](https://github.com/FaiqAminuddin)
