@@ -17,6 +17,10 @@
 
 ##Infrastruktur
 
+- [Darian Rizaludin] (https://github.com/darianrizaludin) (Koordinator)
+- [Benediktus Anindito] (https://github.com/benben159) 
+- Ananda Dwi
+
 ##Pemaket
 - [Saprianto] (https://github.com/antosamalona) (Koordinator)
 - [Febrian Rendak](https://github.com/febrianrendak)
