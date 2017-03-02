@@ -18,13 +18,14 @@
 ##Infrastruktur
 
 ##Pemaket
-
+- [Saprianto] (https://github.com/antosamalona) (Koordinator)
 - [Febrian Rendak](https://github.com/febrianrendak)
 
 ##Riset
 
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
 - Faiz
+- [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
 
 ##Dokumentasi
