@@ -33,6 +33,7 @@
 - Faiz
 - [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
+- [Ismail Sudirman](https://github.com/i5um41ru)
 
 ##Dokumentasi
 - [Faiq Aminuddin (Koordinator)](https://github.com/FaiqAminuddin)
