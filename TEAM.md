@@ -30,7 +30,7 @@
 ##Riset
 
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
-- Faiz
+- [Azmi Faiz Habibi](https://github.com/AzmiFaiz)
 - [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
 
@@ -43,7 +43,7 @@
 - Endra Yustina Arianto
 - Kuriyanto Adi Saputro
 - Anchuxo
-- Sukmo Afro Ardi Saputro
+- Sukmo Afri Ardi Saputro
 - Findi Hardianty
 - Abdul Mukti Nurrohman
 - Syahrudin
