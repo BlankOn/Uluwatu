@@ -19,7 +19,7 @@
 ##Infrastruktur
 
 - [Darian Rizaludin] (https://github.com/darianrizaludin) (Koordinator)
-- [Benediktus Anindito] (https://github.com/benben159) 
+- [Benediktus Anindito] (https://github.com/benben159)
 - Ananda Dwi
 
 ##Pemaket
@@ -30,7 +30,7 @@
 ##Riset
 
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
-- Faiz
+- [Faiz](https://github.com/Azmifaiz)
 - [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
 
