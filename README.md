@@ -9,3 +9,5 @@ Detail tentang proyek BlankOn XI Uluwatu
 Daftar tim pengembang dapat dilihat [di sini](TEAM.md).
 
 ## Milestone
+
+![milestone BlankOn Uluwatu](img/Milestone.png)
