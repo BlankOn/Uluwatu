@@ -14,7 +14,7 @@
 
 ##Manajer Rilis
 
-- Estu Fardani | @tuanpembual
+- Estu Fardani | [@tuanpembual] (https://github.com/tuanpembual)
 
 ##Infrastruktur
 
