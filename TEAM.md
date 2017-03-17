@@ -53,6 +53,7 @@
 - Musthofa fahmi
 - Andika fauzi
 - Barep Setyadi
+- Firman wahyudi
 
 ##Jaminan Kualitas
 
