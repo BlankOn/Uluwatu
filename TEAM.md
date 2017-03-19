@@ -17,9 +17,9 @@
 
 ## Infrastruktur
 
-- [Darian Rizaludin](https://github.com/darianrizaludin) (Koordinator)
-- [Benediktus Anindito](https://github.com/benben159) 
-- Ananda Dwi
+- [Darian Rizaludin] (https://github.com/darianrizaludin) (Koordinator)
+- [Benediktus Anindito] (https://github.com/benben159) 
+- [Ananda Dwi Rahmawati] (https://github.com/misskecupbung)
 
 ## Pemaket
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
