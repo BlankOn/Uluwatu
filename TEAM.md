@@ -30,7 +30,6 @@
 ## Riset
 
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
-- [Azmi Faiz Habibi](https://github.com/AzmiFaiz)
 - [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
 - [Nasrul Alawy](https://github.com/alawyc32b)
