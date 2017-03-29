@@ -20,6 +20,7 @@
 - [Darian Rizaludin](https://github.com/darianrizaludin) (Koordinator)
 - [Benediktus Anindito](https://github.com/benben159) 
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
+- [Yudha HT](https://github.com/yht)
 
 ## Pemaket
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
