@@ -1,6 +1,6 @@
 # Uluwatu
 
-Detail tentang proyek BlankOn XI Uluwatu
+Uluwatu diambil sebagai nama kode rilis BlankOn Linux XI. Repositori ini berisi dokumentasi kolaborasi yang spesifik untuk rilis Uluwatu. Wiki pengembangan proyek BlankOn dapat merujuk ke [Wiki](https://github.com/BlankOn/wiki).
 
 ## Tentang Uluwatu
 
@@ -8,7 +8,7 @@ Uluwatu berasal dari kata *Ulu* yang berarti ujung tanah dan *Watu* yang berarti
 
 ## Tim Pengembang
 
-Daftar tim pengembang dapat dilihat [di sini](TEAM.md).
+Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 
 ## Milestone
 
