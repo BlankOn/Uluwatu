@@ -4,6 +4,8 @@ Detail tentang proyek BlankOn XI Uluwatu
 
 ## Tentang Uluwatu
 
+Uluwatu berasal dari kata *Ulu* yang berarti ujung tanah dan *Watu* yang berarti batu. [Sumber](https://en.wikipedia.org/wiki/Uluwatu,_Bali).
+
 ## Tim Pengembang
 
 Daftar tim pengembang dapat dilihat [di sini](TEAM.md).
