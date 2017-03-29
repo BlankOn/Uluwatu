@@ -32,8 +32,9 @@
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
 - [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
-- [Nasrul Alawy](https://github.com/alawyc32b)
 - [Ismail Sudirman](https://github.com/i5um41ru)
+- ~~Nasrul Alawy~~
+- ~~Faiz~~
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
