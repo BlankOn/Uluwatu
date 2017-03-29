@@ -48,25 +48,25 @@ Daftar tim pengembang dapat dilihat [di sini](TEAM.md).
 |                    | Ujicoba pemasukan Paket Khas |  |
 |                    | TestBuild RC2 |  |
 |                    | Siklus Jahitan dan QA |  |
-| **Agustus**        |  |  |
+| **Agustus 2017**        |  |  |
 |                    | UI fix (80%) |  |
 |                    | Wiki (80%) |  |
 |                    | Paket Khas tersedia di repo |  |
 |                    | RC2 Rilis |  |
-| **September**      |  |  |
+| **September 2017**      |  |  |
 |                    | Siklus Jahitan dan QA |  |
 |                    | Perbaikan UI |  |
-| **Oktober**        |  |  |
+| **Oktober 2017**        |  |  |
 |                    | Siklus Jahitan dan QA |  |
 |                    | Panduan Distribusi |  |
 |                    | Rencana BlankOnf |  |
-| **November**       |  |  |
+| **November 2017**       |  |  |
 |                    | Materi Promosi Pra rilis (Kesenian) |  |
 |                    | Strategi publikasi pra rilis |  |
 |                    | Materi publikasi pra rilis |  |
 |                    | Siklus jahitan dan QA |  |
 |                    | Pembekuan Repo dari Sid |  |
-| **Desember**       |  |  |
+| **Desember 2017**       |  |  |
 |                    | Penguncian kernel |  |
 |                    | Panduan Uluwatu 100% |  |
 |                    | RC3 Rilis |  |
