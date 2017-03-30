@@ -59,7 +59,7 @@
 ## Jaminan Kualitas
 - [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
 - [Sofyan Sugianto](https://github.com/artemtech)
-- Andrel Karunia Sitanggang
+- [Andrel Karunia Sitanggang](https://github.com/buruhnih/)
 - [Arjan Ridwan](https://github.com/arjan20)
 
 ## Kesenian [BlankOn Uluwatu](https://github.com/blankon/blankon-uluwatu-kesenian)
