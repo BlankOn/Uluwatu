@@ -70,5 +70,4 @@ Belum ada
 - [Vikko Okviandho](https://github.com/belthsazarliem)
 
 ## Humas
-
-Belum ada
+- [Sabar Suwarsono](https://github.com/soewarsono)
