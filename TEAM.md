@@ -57,8 +57,10 @@
 - Firman wahyudi
 
 ## Jaminan Kualitas
-
-Belum ada
+- [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
+- [Sofyan Sugianto](https://github.com/artemtech)
+- Andrel Karunia Sitanggang
+- [Arjan Ridwan](https://github.com/arjan20)
 
 ## Kesenian [BlankOn Uluwatu](https://github.com/blankon/blankon-uluwatu-kesenian)
 
