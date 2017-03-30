@@ -71,4 +71,4 @@ Belum ada
 
 ## Humas
 
-Belum ada
+- [Aris Eko Priyanto](http://github.com/arisgith/) (Koordinator)
