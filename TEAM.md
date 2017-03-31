@@ -67,4 +67,6 @@
 - [Vikko Okviandho](https://github.com/belthsazarliem)
 
 ##Humas
-- [Pantana](https://github.com/Pantana)
+- [Aris Eko Priyanto](http://github.com/arisgith/) (Koordinator)
+- [Sabar Suwarsono](http://github.com/soewarsono/)
+- [Pantana](https://github.com/Pantana/)
