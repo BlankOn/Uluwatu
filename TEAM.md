@@ -74,3 +74,4 @@
 ## Humas
 
 - [Aris Eko Priyanto](http://github.com/arisgith/) (Koordinator)
+- [Sabar Suwarsono](http://github.com/soewarsono/)
