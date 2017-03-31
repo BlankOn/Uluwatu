@@ -71,7 +71,8 @@
 - Ary Aldatama
 - [Vikko Okviandho](https://github.com/belthsazarliem)
 
-## Humas
 
+##Humas
 - [Aris Eko Priyanto](http://github.com/arisgith/) (Koordinator)
 - [Sabar Suwarsono](http://github.com/soewarsono/)
+- [Pantana](https://github.com/Pantana/) : Update berita di sosmed BlankOn
