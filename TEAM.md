@@ -67,3 +67,4 @@
 - [Vikko Okviandho](https://github.com/belthsazarliem)
 
 ##Humas
+- [Pantana](https://github.com/Pantana)
