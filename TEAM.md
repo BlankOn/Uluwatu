@@ -55,7 +55,7 @@
 - Musthofa fahmi
 - Andika fauzi
 - Barep Setyadi
-- Firman wahyudi
+- [Firman wahyudi](https://github.com/firmanwyd)
 
 ## Jaminan Kualitas
 - [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
