@@ -57,6 +57,7 @@
 - Andika fauzi
 - Barep Setyadi
 - [Firman wahyudi](https://github.com/firmanwyd)
+- [namamu](https://github.com/akungithubmu)
 
 ## Jaminan Kualitas
 - [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
