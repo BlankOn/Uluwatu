@@ -41,7 +41,7 @@
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
-- Umul Sidiqoh
+- [Umul Sidiqoh](https://github.com/umulsidikoh)
 - Tris Faizal
 - Adnan Maulanan
 - Laili Alfi Arfiyatin
