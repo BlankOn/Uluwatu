@@ -56,6 +56,7 @@
 - Musthofa fahmi
 - Andika fauzi
 - Barep Setyadi
+- guspur
 - [Firman wahyudi](https://github.com/firmanwyd)
 
 ## Jaminan Kualitas
