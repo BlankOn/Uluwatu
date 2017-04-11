@@ -23,12 +23,15 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | Draft Sponsor dan Mitra | :white_check_mark: |
 | **Maret 2017**     |  |  |
 |                    | Usulan fitur dan paket khas | :white_check_mark: |
+|                    | Perencanaan UAT | :white_check_mark: |
+|                    | Pembekalan Dokumentasi (git, md, track) | :white_check_mark: |
+|                    | ~~Rekontruksi IRGSH + Untung~~ |  |
+|                    | ~~Rekontruksi Arsip-dev~~ |  |
+|                    | ~~Peresmian Sponsor dan Mitra~~ |  |
+| **April 2017**     |  |  |
 |                    | Rekontruksi IRGSH + Untung |  |
 |                    | Rekontruksi Arsip-dev |  |
 |                    | Peresmian Sponsor dan Mitra |  |
-|                    | Perencanaan UAT | :white_check_mark: |
-|                    | Pembekalan Dokumentasi (git, md, track) | :white_check_mark: |
-| **April 2017**     |  |  |
 |                    | Usulan fitur dan paket khas |  |
 |                    | TestRebuild |  |
 |                    | Penutupan penerimaan pendekar |  |
