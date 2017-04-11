@@ -42,7 +42,7 @@
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
 - [Umul Sidiqoh](https://github.com/umulsidikoh)
-- Tris Faizal
+- [TRISFAIZAL](https://github.com/trisfaizal)
 - Adnan Maulanan
 - Laili Alfi Arfiyatin
 - Endra Yustina Arianto
