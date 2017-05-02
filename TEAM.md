@@ -34,7 +34,7 @@
 - [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
 - [Sucipto](https://github.com/showcheap)
 - [Aan Wahyu](https://github.com/aancw)
-- [Ismail Sudirman](https://github.com/i5um41ru)
+- ~~[Ismail Sudirman](https://github.com/i5um41ru)~~
 - ~~Nasrul Alawy~~
 - ~~Faiz~~
 
