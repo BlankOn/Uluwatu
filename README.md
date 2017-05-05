@@ -29,8 +29,8 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | ~~Rekontruksi Arsip-dev~~ |  |
 |                    | ~~Peresmian Sponsor dan Mitra~~ |  |
 | **April 2017**     |  |  |
-|                    | Rekontruksi IRGSH + Untung |  |
-|                    | Rekontruksi Arsip-dev |  |
+|                    | Rekontruksi IRGSH | :white_check_mark:  |
+|                    | Rekontruksi Arsip-dev + Untung |  |
 |                    | Peresmian Sponsor dan Mitra |  |
 |                    | Usulan fitur dan paket khas |  |
 |                    | TestRebuild |  |
