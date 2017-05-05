@@ -30,6 +30,7 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | ~~Peresmian Sponsor dan Mitra~~ |  |
 | **April 2017**     |  |  |
 |                    | Rekontruksi IRGSH | :white_check_mark:  |
+| **Mei 2017**       |  |  |
 |                    | Rekontruksi Arsip-dev + Untung |  |
 |                    | Peresmian Sponsor dan Mitra |  |
 |                    | Usulan fitur dan paket khas |  |
@@ -39,7 +40,6 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | Pemaket mulai membangun paket berdasarkan untung |  |
 |                    | Pabrik ISO mulai bekerja |  |
 |                    | QA mulai bekerja |  |
-| **Mei 2017**       |  |  |
 |                    | Penutupan usulan fitur dan paket khas |  |
 |                    | Siklus jahitan dan QA |  |
 |                    | Dokumentasi Infra (Blog dan README) |  |
