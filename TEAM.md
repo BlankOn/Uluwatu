@@ -26,7 +26,6 @@
 - [Saprianto] (https://github.com/antosamalona) (Koordinator)
 - [Febrian Rendak](https://github.com/febrianrendak)
 - [Hanhan] (https://github.com/hahn)
-- [Abdul Jabar Hakim](https://github.com/hak11)
 
 ##Riset
 
