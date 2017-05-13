@@ -26,7 +26,7 @@
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
 - [Hanhan](https://github.com/hahn)
 - [Achmad Yusri Afandi](http://github.com/yusrideb)
-- ~~~~[Febrian Rendak](https://github.com/febrianrendak)
+- ~~[Febrian Rendak](https://github.com/febrianrendak)~~
 - ~~[Abdul Jabar Hakim](https://github.com/hak11)~~
 
 ## Riset
