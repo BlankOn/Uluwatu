@@ -46,7 +46,7 @@
 - Laili Alfi Arfiyatin
 - Endra Yustina Arianto
 - Kuriyanto Adi Saputro
-- Anchuxo
+- [Anchuxo](https://github.com/anchuxo)
 - Sukmo Afri Ardi Saputro
 - Findi Hardianty
 - Abdul Mukti Nurrohman
