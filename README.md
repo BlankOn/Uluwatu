@@ -34,11 +34,11 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | Rekontruksi Arsip-dev + Untung |  |
 |                    | Peresmian Sponsor dan Mitra |  |
 |                    | Usulan fitur dan paket khas |  |
-|                    | TestRebuild |  |
+|                    | TestRebuild | :white_check_mark: |
 |                    | Penutupan penerimaan pendekar |  |
-|                    | Sync repo uluwatu |  |
+|                    | Sync repo uluwatu | :white_check_mark: |
 |                    | Pemaket mulai membangun paket berdasarkan untung |  |
-|                    | Pabrik ISO mulai bekerja |  |
+|                    | Pabrik ISO mulai bekerja | :white_check_mark: |
 |                    | QA mulai bekerja |  |
 |                    | Penutupan usulan fitur dan paket khas |  |
 |                    | Siklus jahitan dan QA |  |
