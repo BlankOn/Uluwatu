@@ -70,9 +70,12 @@
 - [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
 - [Muhammad Irfan](https://github.com/irfanpule)
 - [Ahmad Romadhon Hidayatullah](https://github.com/raniaamina)
-- Bayu Aji
-- Ary Aldatama
+- ~~Bayu Aji~~
+- ~~Ary Aldatama~~
 - [Vikko Okviandho](https://github.com/belthsazarliem)
+- [Pramasta Ramadha Rahardjo](https://github.com/PramastaRR)
+- [Dzulfikar Fauzi](https://github.com/fikar46)
+- ~~Iqbal Adib Syaputra~~
 
 ## Humas
 
