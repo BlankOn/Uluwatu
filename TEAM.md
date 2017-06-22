@@ -70,7 +70,7 @@
 - [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
 - [Muhammad Irfan](https://github.com/irfanpule)
 - [Ahmad Romadhon Hidayatullah](https://github.com/raniaamina)
-- ~~Bayu Aji~~
+- [Bayu Aji](https://github.com/bajinra)
 - ~~Ary Aldatama~~
 - [Vikko Okviandho](https://github.com/belthsazarliem)
 - [Pramasta Ramadha Rahardjo](https://github.com/PramastaRR)
