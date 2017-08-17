@@ -79,7 +79,8 @@
 
 ## Humas
 
-- [Aris Eko Priyanto](http://github.com/arisgith/) (Koordinator)
+- [Muhammad Rafi](http://github.com/juraganrafi/) (Koordinator)
+- [Aris Eko Priyanto](http://github.com/arisgith/)
 - [Sabar Suwarsono](http://github.com/soewarsono/)
 - [Slamet Santoso](http://github.com/slamets75/)
 - [Pantana](https://github.com/Pantana/)
