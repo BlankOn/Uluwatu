@@ -31,27 +31,31 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 | **April 2017**     |  |  |
 |                    | Rekontruksi IRGSH | :white_check_mark:  |
 | **Mei 2017**       |  |  |
-|                    | Rekontruksi Arsip-dev + Untung |  |
-|                    | Peresmian Sponsor dan Mitra |  |
-|                    | Usulan fitur dan paket khas |  |
+|                    | Rekontruksi Arsip-dev ~~+ Untung~~ | :white_check_mark: |
+|                    | ~~Peresmian Sponsor dan Mitra~~ |  |
+|                    | Usulan fitur dan paket khas | :white_check_mark: |
 |                    | TestRebuild | :white_check_mark: |
-|                    | Penutupan penerimaan pendekar |  |
+|                    | Penutupan penerimaan pendekar | :white_check_mark: |
 |                    | Sync repo uluwatu | :white_check_mark: |
-|                    | Pemaket mulai membangun paket berdasarkan untung |  |
+|                    | ~~Pemaket mulai membangun paket berdasarkan untung~~ |  |
 |                    | Pabrik ISO mulai bekerja | :white_check_mark: |
-|                    | QA mulai bekerja |  |
-|                    | Penutupan usulan fitur dan paket khas |  |
-|                    | Siklus jahitan dan QA |  |
-|                    | Dokumentasi Infra (Blog dan README) |  |
-|                    | Migrasi wiki ke Github (legacy) |  |
+|                    | QA mulai bekerja | :white_check_mark: |
+|                    | Penutupan usulan fitur dan paket khas | :white_check_mark: |
+|                    | Siklus jahitan dan QA | :white_check_mark: |
+|                    | Dokumentasi Infra (Blog dan README) | :white_check_mark: |
+|                    | Migrasi wiki ke Github (legacy) | :white_check_mark: |
 | **Juni 2017**      |  |  |
-|                    | Siklus jahitan dan QA |  |
+|                    | Siklus jahitan dan QA | :white_check_mark: |
 | **Juli 2017**      |  |  |
+|                    | ~~Pembekuan konsep UI (Kesenian)~~ |  |
+|                    | ~~Ujicoba pemasukan Paket Khas~~ |  |
+|                    | ~~TestBuild RC2~~ |  |
+|                    | Siklus Jahitan dan QA | :white_check_mark: |
+| **Agustus 2017**        |  |  |
+|                    | Peresmian Sponsor dan Mitra |  |
+|                    | Pemaket mulai membangun paket berdasarkan untung |  |
 |                    | Pembekuan konsep UI (Kesenian) |  |
 |                    | Ujicoba pemasukan Paket Khas |  |
-|                    | TestBuild RC2 |  |
-|                    | Siklus Jahitan dan QA |  |
-| **Agustus 2017**        |  |  |
 |                    | UI fix (80%) |  |
 |                    | Wiki (80%) |  |
 |                    | Paket Khas tersedia di repo |  |
