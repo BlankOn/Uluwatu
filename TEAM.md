@@ -68,13 +68,13 @@
 ## Kesenian [BlankOn Uluwatu](https://github.com/blankon/blankon-uluwatu-kesenian)
 
 - [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
-- [Muhammad Irfan](https://github.com/irfanpule)
 - [Ahmad Romadhon Hidayatullah](https://github.com/raniaamina)
 - [Bayu Aji](https://github.com/bajinra)
-- ~~Ary Aldatama~~
-- [Vikko Okviandho](https://github.com/belthsazarliem)
-- [Pramasta Ramadha Rahardjo](https://github.com/PramastaRR)
 - [Dzulfikar Fauzi](https://github.com/fikar46)
+- [Muhammad Irfan](https://github.com/irfanpule)
+- [Pramasta Ramadha Rahardjo](https://github.com/PramastaRR)
+- [Vikko Okviandho](https://github.com/belthsazarliem)
+- ~~Ary Aldatama~~
 - ~~Iqbal Adib Syaputra~~
 
 ## Humas
