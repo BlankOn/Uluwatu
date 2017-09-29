@@ -13,7 +13,7 @@ Anda (bahkan bukan sebagai tim Pengembang) dapat ikut serta menguji berkas citra
 - Pastikan kutu/ide yang ingin Anda tulis belum pernah dilaporkan di *issue*
 - Jika hal terkait pernah dilaporkan di sebuah *issue*, Anda dapat mengomentari *issue* tersebut.
 - Jika belum ada, silakan membuat *issue* baru.
-- Saat Anda membuat *issue* baru, usahakan melampirkan informasi-informasi berikut untuk memudahkan pengpembang mereproduksi masalah yang Anda temui :
+- Saat Anda membuat *issue* baru, usahakan melampirkan informasi-informasi berikut untuk memudahkan tim pengembang mereproduksi masalah yang Anda temui :
   - Versi jahitan
   - Arsitektur
   - Informasi mesin (VM atau mesin fisik)
