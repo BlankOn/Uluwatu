@@ -65,18 +65,26 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | ~~TestBuild RC2~~ |  |
 |                    | Siklus Jahitan dan QA | :white_check_mark: |
 | **Agustus 2017**        |  |  |
-|                    | Peresmian Sponsor dan Mitra |  |
-|                    | Pemaket mulai membangun paket berdasarkan untung |  |
-|                    | Pembekuan konsep UI (Kesenian) |  |
-|                    | Ujicoba pemasukan Paket Khas |  |
-|                    | UI fix (80%) |  |
-|                    | Wiki (80%) |  |
-|                    | Paket Khas tersedia di repo |  |
-|                    | RC2 Rilis |  |
+|                    | ~~Peresmian Sponsor dan Mitra~~ |  |
+|                    | ~~Pemaket mulai membangun paket berdasarkan untung~~ |  |
+|                    | ~~Pembekuan konsep UI (Kesenian)~~ |  |
+|                    | Ujicoba pemasukan Paket Khas | :white_check_mark: |
+|                    | UI fix (80%) | :white_check_mark: |
+|                    | Wiki (80%) | :white_check_mark: |
+|                    | Paket Khas tersedia di repo | :white_check_mark: |
+|                    | ~~RC2 Rilis~~ |  |
 | **September 2017**      |  |  |
+|                    | ~~Peresmian Sponsor dan Mitra~~ |  |
+|                    | Pemaket mulai membangun paket berdasarkan untung | :white_check_mark: |
+|                    | ~~Pembekuan konsep UI (Kesenian)~~ |  |
+|                    | Wiki (95%) | :white_check_mark: |
+|                    | ~~RC2 Rilis~~ |  |
 |                    | Siklus Jahitan dan QA |  |
-|                    | Perbaikan UI |  |
+|                    | ~~Perbaikan UI~~ |  |
 | **Oktober 2017**        |  |  |
+|                    | Peresmian Sponsor dan Mitra |  |
+|                    | Pembekuan konsep UI (Kesenian) |  |
+|                    | RC2 Rilis |  |
 |                    | Siklus Jahitan dan QA |  |
 |                    | Panduan Distribusi |  |
 |                    | Rencana BlankOnf |  |
