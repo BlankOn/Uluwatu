@@ -79,7 +79,7 @@ Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
 |                    | ~~Pembekuan konsep UI (Kesenian)~~ |  |
 |                    | Wiki (95%) | :white_check_mark: |
 |                    | ~~RC2 Rilis~~ |  |
-|                    | Siklus Jahitan dan QA |  |
+|                    | Siklus Jahitan dan QA | :white_check_mark: |
 |                    | ~~Perbaikan UI~~ |  |
 | **Oktober 2017**        |  |  |
 |                    | Peresmian Sponsor dan Mitra |  |
