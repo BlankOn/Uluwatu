@@ -6,6 +6,19 @@ Uluwatu diambil sebagai nama kode rilis BlankOn Linux XI. Repositori ini berisi 
 
 Uluwatu berasal dari kata *Ulu* yang berarti ujung tanah dan *Watu* yang berarti batu. [Sumber](https://en.wikipedia.org/wiki/Uluwatu,_Bali).
 
+## Melaporkan kutu
+
+Anda (bahkan bukan sebagai tim Pengembang) dapat ikut serta menguji berkas citra jahitan Uluwatu dan melaporkan kutu-kutu yang terjadi, atau mengusulkan peningkatan mutu dan ide di halaman <a href="https://github.com/BlankOn/Uluwatu/issues">Issue></a>
+
+- Pastikan kutu/ide yang ingin Anda tulis belum pernah dilaporkan di *issue*
+- Jika hal terkait pernah dilaporkan di sebuah *issue*, Anda dapat mengomentari *issue* tersebut.
+- Jika belum ada, silakan membuat *issue* baru.
+- Saat Anda membuat *issue* baru, usahakan melampirkan informasi-informasi berikut untuk memudahkan pengembang mereproduksi masalah yang Anda temui :
+  - Versi jahitan
+  - Arsitektur
+  - Informasi mesin (VM atau mesin fisik)
+  - Bagaimana masalah tersebut terjadi (bila tidak tampak secara langsung)
+
 ## Tim Pengembang
 
 Daftar tim pengembang untuk rilis Uluwatu dapat dilihat [di sini](TEAM.md).
