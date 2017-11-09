@@ -29,6 +29,7 @@
 - ~~[Melki Mario Gulo](http://github.com/m4ri01)~~
 - ~~[Febrian Rendak](https://github.com/febrianrendak)~~
 - ~~[Abdul Jabar Hakim](https://github.com/hak11)~~
+- ~~Toriq Kemal~~
 
 ## Riset
 
