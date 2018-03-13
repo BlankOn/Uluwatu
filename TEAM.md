@@ -82,7 +82,7 @@
 
 - [Slamet Santoso](http://github.com/slamets75/) (Koordinator)
 - [Muhammad Rafi](http://github.com/juraganrafi/)
-- [Aris Eko Priyanto](http://github.com/arisgith/)
+- ~~[Aris Eko Priyanto](http://github.com/arisgith/)~~
 - [Sabar Suwarsono](http://github.com/soewarsono/)
 - [Pantana](https://github.com/Pantana/)
 - [Pahlevy Tawainella](http://github.com/levay08)
