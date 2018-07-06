@@ -86,3 +86,4 @@
 - [Sabar Suwarsono](http://github.com/soewarsono/)
 - [Pantana](https://github.com/Pantana/)
 - [Pahlevy Tawainella](http://github.com/levay08)
+- [Imanuel Ronaldo](http://github.com/nathanael79)
